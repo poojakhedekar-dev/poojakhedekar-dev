@@ -1,7 +1,7 @@
 # Hi, I'm Pooja Khedekar 👋
 **Frontend Developer | HTML, CSS | JavaScript | ReactJS**  
-Building **responsive websites & web apps** with a love for clean design and smooth user experience.  
-
+Creating and experimenting with **Responsive Websites & Web Apps**, focusing on clean design and smooth user experience.
+Continuously learning and improving my skills.
 ---
 
 ## 🛠️ My Tech Stack
